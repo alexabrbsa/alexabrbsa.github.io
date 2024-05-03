@@ -11,7 +11,7 @@ function App() {
        </ul>
      </header>
      <div className="content">
-       <h1 style={{ color: 'blue' }}>Hey! I'm Alexa. </h1>
+       <h1 style={{ color: 'blue' }}>Hey! I'm Alexa </h1>
        <h1 style={{ color: 'black' }}>I'm a Cognitive Science student with a
 background in Design & Interaction :)</h1>
      </div>
